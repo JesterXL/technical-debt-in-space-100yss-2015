@@ -2,6 +2,10 @@
 
 My slides and notes for the [100 Year Starship Conference 2015](https://2015.symposium.100yss.org): Human Interstellar Travel in the next 100 years.
 
+You can also see the [slides online](http://www.slideshare.net/jesterxl/technical-debt-in-space-jesse-warden-100yss-2015).
+
+[![Slide Link](tech-debt-slides.png)](http://www.slideshare.net/jesterxl/technical-debt-in-space-jesse-warden-100yss-2015)
+
 # Research Notes and Citations
 
 http://www.fastcompany.com/28121/they-write-right-stuff
