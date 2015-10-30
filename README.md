@@ -1,4 +1,8 @@
-Research Notes and Citations
+# What
+
+My slides and notes for the [100 Year Starship Conference 2015](https://2015.symposium.100yss.org): Human Interstellar Travel in the next 100 years.
+
+# Research Notes and Citations
 
 http://www.fastcompany.com/28121/they-write-right-stuff
 
